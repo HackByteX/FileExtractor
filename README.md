@@ -11,7 +11,7 @@ Sure! Here's a cleaned-up and completed version of your `README.md` file for the
 
 ## ✨ Features
 
-* ✅ Filter by file extension (e.g., `.pdf`, `.jpg`, `.docx` , `etc...`)
+* ✅ Filter by file extension (e.g., `.pdf`, `.jpg`, `.docx` , `etc...` )
 * ✅ Preserve or flatten folder structure
 * ✅ Skip or overwrite duplicate files
 * ✅ Terminal progress bar using [`rich`](https://github.com/Textualize/rich)
@@ -46,7 +46,7 @@ You'll be prompted for:
 
 * Source folder
 * Destination folder
-* File extensions to filter (e.g.,  `.pdf`, `.jpg`, `.docx` , `etc...`)
+* File extensions to filter (e.g.,  `.pdf`, `.jpg`, `.docx` , `etc...` )
 * Overwrite existing files (yes/no)
 * Preserve folder structure (yes/no)
 
