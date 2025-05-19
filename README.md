@@ -1,36 +1,25 @@
-Here's your updated **professional `README.md`** (inspired by `ffuf`) with your **Step-by-Step Example** on making `fileextractor` a global command from anywhere on the system.
+📁 File Extractor
+Extract files with specific extensions from a source directory to a destination directory.
+Supports duplicate handling, folder structure preservation, and visual CLI output.
 
----
+✨ Features
+✅ Filter by file extension (e.g., .pdf, .jpg, .docx)
 
-## 📝 `README.md`
+✅ Preserve or flatten folder structure
 
-````markdown
-# File Extractor
+✅ Skip or overwrite duplicate files
 
-> Extract files with specific extensions from a source directory to a destination directory.  
-> Supports duplicate handling, folder structure preservation, and visual CLI output.
+✅ Terminal progress bar using rich
 
----
+✅ Clean UI with colorama and pyfiglet
 
-## Features
-
-- Filter by file extension (e.g., `.pdf`, `.jpg`, `.docx`)
-- Preserve or flatten folder structure
-- Skip or overwrite duplicates
-- Terminal progress bar with `rich`
-- Clean UI with `colorama` and `pyfiglet`
-
----
-
-## Installation
-
-### 1. Clone the repository
-
-```bash
+📦 Installation
+1. Clone the repository
+bash
+Copy
+Edit
 git clone https://github.com/your-username/file-extractor.git
 cd file-extractor
-````
-
 ### 2. Install dependencies
 
 ```bash
