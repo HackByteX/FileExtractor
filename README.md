@@ -66,7 +66,7 @@ Paste the following into the file:
 
 ```bash
 #!/bin/bash
-python3 /home/Afsal/Activity-Folder/Tools/File-Extractor.py "$@"
+python3 /your/path/folder/File-Extractor.py 
 ```
 
 > 🔹 Replace the path with the actual location of your `File-Extractor.py`.
