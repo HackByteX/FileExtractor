@@ -2,7 +2,7 @@ Here's your updated **professional `README.md`** (inspired by `ffuf`) with your 
 
 ---
 
-## 📝 Final `README.md` (Enhanced)
+## 📝 `README.md`
 
 ````markdown
 # File Extractor
