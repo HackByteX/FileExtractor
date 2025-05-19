@@ -1,3 +1,4 @@
+Sure! Here's a cleaned-up and completed version of your README.md file for the **File Extractor** project
 ---
 
 # 📁 File Extractor
