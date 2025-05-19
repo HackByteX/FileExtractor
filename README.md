@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python File-Extractor.py
+python3 File-Extractor.py
 ```
 
 You'll be prompted for:
@@ -135,11 +135,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Author
 
 **Muhammed Afsal C**
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-link)
+[GitHub](https://github.com/HackByteX) • [LinkedIn](https://www.linkedin.com/in/muhammedafsalc)
 
-```
 
----
-
-✅ Let me know if you want this in a downloadable ZIP or if you want help creating a GitHub Release/Tag (`v1.0.0`).
-```
