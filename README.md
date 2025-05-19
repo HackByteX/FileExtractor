@@ -1,25 +1,33 @@
-📁 File Extractor
-Extract files with specific extensions from a source directory to a destination directory.
-Supports duplicate handling, folder structure preservation, and visual CLI output.
+Sure! Here's a cleaned-up and completed version of your `README.md` file for the **File Extractor** project:
 
-✨ Features
-✅ Filter by file extension (e.g., .pdf, .jpg, .docx)
+---
 
-✅ Preserve or flatten folder structure
+# 📁 File Extractor
 
-✅ Skip or overwrite duplicate files
+> Extract files with specific extensions from a source directory to a destination directory.
+> Supports duplicate handling, folder structure preservation, and visual CLI output.
 
-✅ Terminal progress bar using rich
+---
 
-✅ Clean UI with colorama and pyfiglet
+## ✨ Features
 
-📦 Installation
-1. Clone the repository
-bash
-Copy
-Edit
+* ✅ Filter by file extension (e.g., `.pdf`, `.jpg`, `.docx`)
+* ✅ Preserve or flatten folder structure
+* ✅ Skip or overwrite duplicate files
+* ✅ Terminal progress bar using [`rich`](https://github.com/Textualize/rich)
+* ✅ Clean UI with [`colorama`](https://pypi.org/project/colorama/) and [`pyfiglet`](https://github.com/pwaller/pyfiglet)
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/your-username/file-extractor.git
 cd file-extractor
+```
+
 ### 2. Install dependencies
 
 ```bash
