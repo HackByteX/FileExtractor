@@ -24,7 +24,7 @@ Sure! Here's a cleaned-up and completed version of your `README.md` file for the
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/file-extractor.git
+git clone https://github.com/HackByteX/file-extractor.git
 cd file-extractor
 ```
 
@@ -46,7 +46,7 @@ You'll be prompted for:
 
 * Source folder
 * Destination folder
-* File extensions to filter (e.g., `.pdf,.txt`)
+* File extensions to filter (e.g., `.pdf,.txt , etc..`)
 * Overwrite existing files (yes/no)
 * Preserve folder structure (yes/no)
 
