@@ -136,6 +136,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 **Muhammed Afsal C**
 
-[GitHub](https://github.com/HackByteX) • [LinkedIn](https://www.linkedin.com/in/muhammedafsalc)
+[GitHub](https://github.com/HackByteX)   [LinkedIn](https://www.linkedin.com/in/muhammedafsalc)
 
 
