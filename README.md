@@ -91,7 +91,8 @@ Your script will execute globally, just like a normal command-line tool.
 
 ## Example
 
-![Screenshot 2025-05-20 202122](https://github.com/user-attachments/assets/0e2dd597-a8be-43dd-b3fb-1a659147f91c)
+![Screenshot 2025-05-20 202654](https://github.com/user-attachments/assets/757d5119-9029-4973-8afd-1315c2c49671)
+
 
 
 ---
