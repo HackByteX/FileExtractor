@@ -92,11 +92,8 @@ Your script will execute globally, just like a normal command-line tool.
 ## Example
 
 ```
-Source path             ⥤ /home/user/Downloads
-Destination path        ⥤ /home/user/Documents/Extracted
-File extensions         ⥤ .pdf,.jpg,.docx
-Remove duplicates?      ⥤ yes
-Preserve structure?     ⥤ no
+![Screenshot 2025-05-20 202122](https://github.com/user-attachments/assets/37fb1d70-8593-41f6-baf6-a3d92a6b2bd5)
+
 ```
 
 ---
