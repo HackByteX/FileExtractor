@@ -91,10 +91,8 @@ Your script will execute globally, just like a normal command-line tool.
 
 ## Example
 
-```
-![Screenshot 2025-05-20 202122](https://github.com/user-attachments/assets/37fb1d70-8593-41f6-baf6-a3d92a6b2bd5)
+![Screenshot 2025-05-20 202122](https://github.com/user-attachments/assets/0e2dd597-a8be-43dd-b3fb-1a659147f91c)
 
-```
 
 ---
 
