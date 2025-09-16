@@ -91,7 +91,8 @@ Your script will execute globally, just like a normal command-line tool.
 
 ## Example
 
-![Screenshot 2025-05-20 202654](https://github.com/user-attachments/assets/757d5119-9029-4973-8afd-1315c2c49671)
+<img width="1031" height="896" alt="image" src="https://github.com/user-attachments/assets/49ddd3c0-3a4c-4bfa-b6c9-3889ec7b108c" />
+
 
 
 
